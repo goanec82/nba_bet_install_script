@@ -1,0 +1,5 @@
+sudo apt install pip -y
+git clone https://github.com/chriseling/NBA-Machine-Learning-Sports-Betting
+cd NBA-Machine-Learning-Sports-Betting
+pip3 install -r requirements.txt
+python3 main.py -xgb -odds=fanduel
