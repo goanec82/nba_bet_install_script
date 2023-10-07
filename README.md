@@ -6,4 +6,4 @@ sudo apt install git -y && git clone https://github.com/goanec82/nba_bet_install
 
 #start
 
-python3 main.py -xgb -odds=fanduel
+cd NBA-Machine-Learning-Sports-Betting/ && python3 main.py -xgb -odds=fanduel && cd ~
