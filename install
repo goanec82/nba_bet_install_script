@@ -1,4 +1,3 @@
-sudo apt install python3-pip -y
 git clone https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting.git
 mv NBA-Machine-Learning-Sports-Betting/ ~
 cd ~
