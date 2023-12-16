@@ -1,5 +1,5 @@
 sudo apt install pip -y
-git clone https://github.com/chriseling/NBA-Machine-Learning-Sports-Betting
+git clone https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting.git
 mv NBA-Machine-Learning-Sports-Betting/ ~
 cd ~
 cd NBA-Machine-Learning-Sports-Betting
