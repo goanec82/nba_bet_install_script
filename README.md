@@ -6,7 +6,7 @@ Raspberry Pi OS Legacy 64-bit Lite Debian Bullseye
 
 #install
 
-sudo apt install git -y && git clone https://github.com/goanec82/nba_bet_install_script && cd nba_bet_install_script/ && bash install && cd ~ && sudo rm -R nba_bet_install_script
+sudo apt install git -y && sudo apt install python3-pip -y && git clone https://github.com/goanec82/nba_bet_install_script && cd nba_bet_install_script/ && bash install && cd ~ && sudo rm -R nba_bet_install_script
 
 #start
 
